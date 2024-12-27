@@ -47,7 +47,7 @@ pip install -r requirements.txt
 - Review the outputs and results documented in the notebook.
 
 # License
-This project is licensed under the.
+This project is licensed under the MIT [LICENSE](LICENSE).
 
 # Acknowledgements
 - Synthetic dataset sourced from Kaggle.
